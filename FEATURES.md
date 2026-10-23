@@ -17,7 +17,7 @@
 
 ## Limited / UI only under static restriction
 
-- Music search: local demo dataset + deep links to Spotify / YT Music / Google (no live catalog API without keys/CORS)
+- Music search: live iTunes API (CORS-friendly, no key) + Persian/Finglish boost list + 30s real audio preview + deep links (Spotify, SoundCloud, YT Music, Radio Javan)
 - Website screenshot: not possible without backend
 - Live web search results: not implemented (no compatible free CORS API)
 - Speech-to-text: not enabled (varies heavily by browser)
